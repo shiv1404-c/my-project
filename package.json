@@ -1,12 +1,8 @@
 {
   "engines": {
-<<<<<<< HEAD
+
   "node": ">=18.0.0"
   },
-=======
-  "node": ">=10.9.2"
-   },
->>>>>>> 291584c66e12a7f31c1e45ba1085623489a4cac7
   "name": "majorproject-1",
   "version": "1.0.0",
   "main": "index.js",
